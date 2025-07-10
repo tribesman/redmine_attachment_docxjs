@@ -10,15 +10,21 @@ A Redmine plugin that provides inline preview functionality for Microsoft Word (
 
 ### Features / Возможности / الميزات
 
+en
+
 - Inline preview of .docx files in Redmine
 - No need to download files to view them
 - Compatible with Redmine's attachment system
 - Lightweight and fast rendering
 
+ru
+
 - Встроенный предварительный просмотр файлов .docx в Redmine
 - Нет необходимости скачивать файлы для их просмотра
 - Совместим с системой вложений Redmine
 - Легковесный и быстрый рендеринг
+
+ar
 
 - معاينة مضمنة لملفات .docx في Redmine
 - لا حاجة لتحميل الملفات لعرضها
